@@ -1,3 +1,5 @@
-# portpersonal
+# Personal Portfolio
 
-https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white
+Written in basic HTML and CSS
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
