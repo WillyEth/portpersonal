@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-## Simple HTML and CSS
+## Simple HTML and CSS Written by myself
 
 
 [![CSS](	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
